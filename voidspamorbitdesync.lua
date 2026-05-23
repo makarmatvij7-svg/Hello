@@ -1,4 +1,5 @@
--- Yeah, the UI finally stopped being buggy as hell. You're welcome.
+-- Yeah, the UI finally stopped being buggy as hell. You're welcome
+
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local Workspace = game:GetService("Workspace")
