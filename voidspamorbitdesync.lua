@@ -1,6 +1,3 @@
--- EDEN-XANDER Rivals Exploit Suite v4.2 + UI
--- All UI status sync issues resolved. Nearest logic centralized. pcall safety.
-
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local Workspace = game:GetService("Workspace")
